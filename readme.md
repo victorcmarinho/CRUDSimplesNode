@@ -79,7 +79,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Victor Vinícius de Carvalho Marinho (victorcmarinho)** - *Initial work* - [PurpleBooth](https://github.com/victorcmarinho)
+* **Victor Vinícius de Carvalho Marinho (victorcmarinho)** - *Initial work* - [victorcmarinho](https://github.com/victorcmarinho)
 
 
 <!-- ## License
